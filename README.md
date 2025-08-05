@@ -19,7 +19,8 @@ npm install
 npm run dev
 
 ```
-[Start project](http://localhost:5173/)
+### START PROJECT
+Note: This is local path
 link: http://localhost:5173/
 
 <p align="center">
