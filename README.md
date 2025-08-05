@@ -18,7 +18,7 @@ cd decentralized-student-register
 npm install
 npm run dev
 
-
+```
 [Start project](http://localhost:5173/)
 
 <p align="center">
