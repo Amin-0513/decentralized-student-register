@@ -1,7 +1,7 @@
 ## Decentralized-student-register
 
 <p align="center">
-  <img src="./FigB.png" alt="Decentralized-student-register" />
+  <img src="./FigB.PNG" alt="Decentralized-student-register" />
 </p>
 
 This is a decentralized application (DApp) designed to register and display student information securely on the blockchain. It serves as a learning project to explore how smart contracts can be used to store student data in a transparent and tamper-proof way, and how that data can be accessed and shown in a user-friendly frontend interface using web3 technologies.
