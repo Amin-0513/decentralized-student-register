@@ -20,13 +20,14 @@ npm run dev
 
 ```
 [Start project](http://localhost:5173/)
+link: http://localhost:5173/
 
 <p align="center">
-  <img src="./C.png" alt="Decentralized-student-register" />
+  <img src="./FigC.PNG" alt="Decentralized-student-register" />
 </p>
 
 [Display All](http://localhost:5173/display)
-
+link: http://localhost:5173/display
 <p align="center">
-  <img src="./A.png" alt="Decentralized-student-register" />
+  <img src="./FigA.PNG" alt="Decentralized-student-register" />
 </p>
