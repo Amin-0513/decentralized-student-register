@@ -9,7 +9,10 @@ This is a decentralized application (DApp) designed to register and display stud
 ---
 
 ###  Getting Started
-
+First flow the process that are done in flowing repo
+```bash
+git clone https://github.com/Amin-0513/hardhat-ganache-deployer.git
+```
 Clone the repository:
 
 ```bash
